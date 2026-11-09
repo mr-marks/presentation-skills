@@ -5,7 +5,7 @@
   },
   "plugins": [
     {
-      "name": "marks-skills",
+      "name": "presentation-skills",
       "source": {
         "source": "local",
         "path": "./"
