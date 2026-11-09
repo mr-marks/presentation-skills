@@ -1,7 +1,7 @@
 {
   "name": "presentation-marketplace",
   "interface": {
-    "displayName": "Mark's Skills"
+    "displayName": "Presentation Skills"
   },
   "plugins": [
     {
